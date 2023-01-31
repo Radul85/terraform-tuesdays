@@ -1,4 +1,4 @@
-###########################
+###########################egion
 # CONFIGURATION
 ###########################
 
@@ -25,7 +25,7 @@ variable "region" {
 variable "prefix" {
   type        = string
   description = "prefix for naming"
-  default     = "tacos"
+  default     = "rrpoc"
 }
 
 ###########################
